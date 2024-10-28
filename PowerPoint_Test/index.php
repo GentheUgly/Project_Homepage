@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <script>window.alert(Hello js word!)</script>
     <header>
         <h1>Willkommen auf meiner Profilseite</h1>
         <nav>
