@@ -41,7 +41,7 @@ function my_func(){
     first_number = parseInt(first_number);
     var second_number = document.getElementById("second_number").value;
     second_number = parseInt(second_number);
-    window.alert(first_number*second_number);<<
+    window.alert(first_number*second_number);
  }
 
  function my_divide(){
