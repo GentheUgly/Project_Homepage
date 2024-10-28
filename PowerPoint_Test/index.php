@@ -2,12 +2,16 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <meta name= viewport content= width=device-width initial-scale=1.0
-    <title>Mein Profil</title>
+    <meta name= viewport content= width=device-width initial-scale=1.0>
+    <title> Mein Profil</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <script>window.alert(Hello js word!)</script>
+    <script>
+    var my_text = "Hello Js World";
+    var my_second_text = "it is my world";
+    window.alert(my_text);
+    </script>
     <header>
         <h1>Willkommen auf meiner Profilseite</h1>
         <nav>
