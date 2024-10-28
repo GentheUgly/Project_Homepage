@@ -10,7 +10,7 @@
     <script>
     var my_text = "Hello Js World";
     var my_second_text = "it is my world";
-    window.alert(my_text);
+    window.alert(my_text + + my_second_text);
     </script>
     <header>
         <h1>Willkommen auf meiner Profilseite</h1>
